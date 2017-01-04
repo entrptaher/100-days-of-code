@@ -17,6 +17,6 @@
 
 ### Day 2: 04/01/2017
 
-**Today's Progress**: Completed wikipedia viewer, leaving local weather viewer for later.
+**Today's Progress**: Completed wikipedia viewer and local weather viewer.
 
-**Thoughts:** Will have to redo later.
+**Thoughts:** Will have to redo later to improve the quality and fix the little bugs.
