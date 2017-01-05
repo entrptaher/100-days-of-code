@@ -20,3 +20,9 @@
 **Today's Progress**: Completed wikipedia viewer and local weather viewer.
 
 **Thoughts:** Will have to redo later to improve the quality and fix the little bugs.
+
+### Day 3: 05/01/2017
+
+**Today's Progress**: Completed URL Shortener Microservice in a hurry.
+
+**Thoughts:** Will have to redo later to improve the quality and fix the little bugs.
