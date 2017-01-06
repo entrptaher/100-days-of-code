@@ -26,3 +26,9 @@
 **Today's Progress**: Completed URL Shortener Microservice in a hurry.
 
 **Thoughts:** Will have to redo later to improve the quality and fix the little bugs.
+
+### Day 4: 06/01/2017
+
+**Today's Progress**: Designed a team page using bulma.io
+
+**Thoughts:** It can be stressful enough not to use custom style css.
