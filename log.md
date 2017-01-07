@@ -32,3 +32,9 @@
 **Today's Progress**: Designed a team page using bulma.io
 
 **Thoughts:** It can be stressful enough not to use custom style css.
+
+### Day 5: 07/01/2017
+
+**Today's Progress**: Completed "No Repeats Please", Improved the team page from yesterday. 
+
+**Thoughts:** Still did not understand why I coded it.
