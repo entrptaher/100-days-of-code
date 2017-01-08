@@ -38,3 +38,9 @@
 **Today's Progress**: Completed "No Repeats Please", Improved the team page from yesterday. 
 
 **Thoughts:** Still did not understand why I coded it.
+
+### Day 6: 08/01/2017
+
+**Today's Progress**: Completed "Missing Letters".
+
+**Thoughts:** Was easier, but still had to try some varients.
