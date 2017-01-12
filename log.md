@@ -41,6 +41,30 @@
 
 ### Day 6: 08/01/2017
 
-**Today's Progress**: Completed "Missing Letters".
+**Today's Progress**: Completed "Missing Letters", "Streamroller".
 
 **Thoughts:** Was easier, but still had to try some varients.
+
+### Day 7: 09/01/2017
+
+**Today's Progress**: Completed "Image Search Abstraction Layer", "BooHoo".
+
+**Thoughts:** BooHoo was too much simpler.
+
+### Day 8: 10/01/2017
+
+**Today's Progress**: Tried to clone a landing page using bootstrap.
+
+**Thoughts:** I am irritated that I did not do FCC, the FCC streak broke -_- ... 
+
+### Day 9: 11/01/2017
+
+**Today's Progress**: Doing Camper Leaderboard with "jQuery" instead of React (with failure), I am disqualified, right? :D
+
+**Thoughts:** Have to revise.
+
+### Day 10: 12/01/2017
+
+**Today's Progress**: Did "Symmetric Difference" challenge. "Drop the diff" helped solving this.
+
+**Thoughts:** 
