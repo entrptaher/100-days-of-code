@@ -68,3 +68,9 @@
 **Today's Progress**: Did "Symmetric Difference" challenge. "Drop the diff" helped solving this.
 
 **Thoughts:** 
+
+### Day 11: 13/01/2017
+
+**Today's Progress**: Did "Sorted Union"
+
+**Thoughts:** Going very slowly, must progress faster.
