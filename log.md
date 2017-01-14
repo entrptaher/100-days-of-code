@@ -74,3 +74,9 @@
 **Today's Progress**: Did "Sorted Union"
 
 **Thoughts:** Going very slowly, must progress faster.
+
+### Day 12: 14/01/2017
+
+**Today's Progress**: Did NOT progress much, was trying to do "Smallest Common"
+
+**Thoughts:** Distraction is dangerous.
