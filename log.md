@@ -80,3 +80,16 @@
 **Today's Progress**: Did NOT progress much, was trying to do "Smallest Common"
 
 **Thoughts:** Distraction is dangerous.
+
+### Day 13: 15/01/2017
+
+**Today's Progress**: Did "Everything Be True", "Arguments Optional"
+
+**Thoughts:** It took me a while to use !variable instead of all those NaN, Undefined and other checks, sadly, it was not re-usable.
+
+
+### Day 14: 16/01/2017
+
+**Today's Progress**: Tried Smallest Common challenge and failed to complete again.
+
+**Thoughts:** It's taking time.
