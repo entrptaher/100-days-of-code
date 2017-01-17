@@ -93,3 +93,10 @@
 **Today's Progress**: Tried Smallest Common challenge and failed to complete again.
 
 **Thoughts:** It's taking time.
+
+
+### Day 15: 17/01/2017
+
+**Today's Progress**: Coded a Pricing Table
+
+**Thoughts:** Not satisfied.
