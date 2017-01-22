@@ -100,3 +100,28 @@
 **Today's Progress**: Coded a Pricing Table
 
 **Thoughts:** Not satisfied.
+
+### Day 16: 18/01/2017
+
+**Today's Progress**: Did "Binary Agents", tried "Sum of all primes"
+
+**Thoughts:** It's getting hard. Is this my limit?
+
+### Day 17: 19/01/2017
+
+**Today's Progress**: Did "Spinal Tap Case", it was all about regex. Then looked for more in Derek Banas channel.
+
+**Thoughts:** 
+
+### Day 18: 20/01/2017
+
+**Today's Progress**: ...
+
+**Thoughts:** Messed up the timing it seems.
+
+
+### Day 19-20: 21-22/01/2017
+
+**Today's Progress**: Worked with Twitch API.
+
+**Thoughts:** Have to come back and fix responsiveness.
