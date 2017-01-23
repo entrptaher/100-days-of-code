@@ -119,9 +119,14 @@
 
 **Thoughts:** Messed up the timing it seems.
 
-
 ### Day 19-20: 21-22/01/2017
 
 **Today's Progress**: Worked with Twitch API.
 
-**Thoughts:** Have to come back and fix responsiveness.
+**Thoughts:** Have to come back and fix responsiveness
+
+### Day 21: 23/01/2017
+
+**Today's Progress**: Got my hands wet with Vue and React :D . Built Markdown Previewer with Marked and React.
+
+**Thoughts:** Gonna try React to fullest.
