@@ -130,3 +130,9 @@
 **Today's Progress**: Got my hands wet with Vue and React :D . Built Markdown Previewer with Marked and React.
 
 **Thoughts:** Gonna try React to fullest.
+
+### Day 22: 24/01/2017
+
+**Today's Progress**: Creating a Javascript calculator.
+
+**Thoughts:** 
