@@ -136,3 +136,35 @@
 **Today's Progress**: Creating a Javascript calculator.
 
 **Thoughts:** 
+
+### Day 23-24: 25-26/01/2017
+
+**Today's Progress**: Still Working on Javascript Calculator.
+
+**Thoughts:** 
+
+### Day 25: 27/01/2017
+
+**Today's Progress**: Solved Sum of Primes, not satisfied. Working on calculator.
+
+**Thoughts:** 
+
+
+### Day 26: 28/01/2017
+
+**Today's Progress**: Still working on calculator. 
+
+**Thoughts:** When will it be done?
+
+
+### Day 27-29: 29/01/2017-31/01/2017
+
+**Today's Progress**: Finished Calculator Project.
+
+**Thoughts:** Again, *simplicity* was the key to develop something that took me a very long time.
+
+### Day 30: 01/02/2017
+
+**Today's Progress**: Doing Tomato/Podomoro Clock
+
+**Thoughts:** Hope this doesn't take long.
