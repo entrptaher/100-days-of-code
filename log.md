@@ -168,3 +168,10 @@
 **Today's Progress**: Doing Tomato/Podomoro Clock
 
 **Thoughts:** Hope this doesn't take long.
+
+
+### Day 31-36: 02-06/02/2017
+
+**Today's Progress**: Doing Tomato/Podomoro Clock, Decided to do other coding challenges and books.
+
+**Thoughts:** The challenge is on!
