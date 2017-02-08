@@ -169,9 +169,20 @@
 
 **Thoughts:** Hope this doesn't take long.
 
-
 ### Day 31-36: 02-06/02/2017
 
-**Today's Progress**: Doing Tomato/Podomoro Clock, Decided to do other coding challenges and books.
+**Today's Progress**: Doing Tomato/Podomoro Clock, Decided to do other coding challenges (from hackerRank) and books.
 
 **Thoughts:** The challenge is on!
+
+### Day 37: 07/02/2017
+
+**Today's Progress**: Did HackerRank Challenges. Should be learning about Meteor Fast.
+
+**Thoughts:** 
+
+### Day 38: 08/02/2017
+
+**Today's Progress**: Did HackerRank Challenges and worked on the timer.
+
+**Thoughts:** 
