@@ -186,3 +186,9 @@
 **Today's Progress**: Did HackerRank Challenges and worked on the timer.
 
 **Thoughts:** 
+
+### Day 39: 09/02/2017
+
+**Today's Progress**: Did HackerRank Challenges and worked on the timer.
+
+**Thoughts:** Say I should just go and complete the whole FCC in a day. (which is not possible for the ME right now anyway -_- )
