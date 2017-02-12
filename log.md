@@ -179,16 +179,10 @@
 
 **Today's Progress**: Did HackerRank Challenges. Should be learning about Meteor Fast.
 
-**Thoughts:** 
+**Thoughts:**
 
-### Day 38: 08/02/2017
+### Day 38-42: 09-12/02/2017
 
-**Today's Progress**: Did HackerRank Challenges and worked on the timer.
+**Today's Progress**: Did HackerRank Challenges and Finished the timer.
 
-**Thoughts:** 
-
-### Day 39: 09/02/2017
-
-**Today's Progress**: Did HackerRank Challenges and worked on the timer.
-
-**Thoughts:** Say I should just go and complete the whole FCC in a day. (which is not possible for the ME right now anyway -_- )
+**Thoughts:** Certainly I slacked off enough to pass 12 days on a simple matter.
