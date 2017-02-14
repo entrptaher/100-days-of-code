@@ -191,6 +191,15 @@
 
 **Today's Progress**: Completed some basic Hackerrank and Codewars challenges.
 
-**Tweet**: Day 43-44, Completed some basic Hackerrank and Codewars challenges.
+**Tweet**: #100DaysOfCode Day 43-44, Completed some basic Hackerrank and Codewars challenges.
+
+**Thoughts:**
+
+
+### Day 45: 15/02/2017
+
+**Today's Progress**: Completed PairWise with For loop. Did a mistake with "" for NaN and paid for it. -_-
+
+**Tweet**: #100DaysOfCode Day 45, Finally back on track, Completed PairWise with For loop. Did a mistake with "" for NaN and paid for it. -_-
 
 **Thoughts:**
