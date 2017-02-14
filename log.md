@@ -186,3 +186,11 @@
 **Today's Progress**: Did HackerRank Challenges and Finished the timer.
 
 **Thoughts:** Certainly I slacked off enough to pass 12 days on a simple matter.
+
+### Day 43-44: 13-14/02/2017
+
+**Today's Progress**: Completed some basic Hackerrank and Codewars challenges.
+
+**Tweet**: Day 43-44, Completed some basic Hackerrank and Codewars challenges.
+
+**Thoughts:**
