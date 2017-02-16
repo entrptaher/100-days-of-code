@@ -206,8 +206,8 @@
 
 ### Day 46: 16/02/2017
 
-**Today's Progress**: Completed some hackerrank problems.
+**Today's Progress**: WIP nightmarejs stuff, Started reading meteorjs stuffs. Completed a hackerrank problem. 
 
-**Tweet**: #100DaysOfCode Day 46, Completed a hackerrank problem. I thought I fixed everything, but it says I did not code for 2 days. :/
+**Tweet**: #100DaysOfCode Day 46, Coded NightmareJS stuff, reading meteorjs stuffs. Completed a hackerrank problem. It says I did not code for 2 day.
 
-**Thoughts:**
+**Thoughts:** I thought I fixed everything, but it says I did not code for 2 days. :/
