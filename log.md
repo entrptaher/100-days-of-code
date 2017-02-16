@@ -195,11 +195,19 @@
 
 **Thoughts:**
 
-
 ### Day 45: 15/02/2017
 
 **Today's Progress**: Completed PairWise with For loop. Did a mistake with "" for NaN and paid for it. -_-
 
 **Tweet**: #100DaysOfCode Day 45, Finally back on track, Completed PairWise with For loop. Did a mistake with "" for NaN and paid for it. -_-
+
+**Thoughts:**
+
+
+### Day 46: 16/02/2017
+
+**Today's Progress**: Completed some hackerrank problems.
+
+**Tweet**: #100DaysOfCode Day 46, Completed a hackerrank problem. I thought I fixed everything, but it says I did not code for 2 days. :/
 
 **Thoughts:**
