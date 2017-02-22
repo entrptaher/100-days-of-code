@@ -203,7 +203,6 @@
 
 **Thoughts:**
 
-
 ### Day 46: 16/02/2017
 
 **Today's Progress**: WIP nightmarejs stuff, Started reading meteorjs stuffs. Completed a hackerrank problem. 
@@ -211,3 +210,11 @@
 **Tweet**: #100DaysOfCode Day 46, Coded NightmareJS stuff, reading meteorjs stuffs. Completed a hackerrank problem. It says I did not code for 2 day.
 
 **Thoughts:** I thought I fixed everything, but it says I did not code for 2 days. :/
+
+### Day 47-52: 17-22/02/2017
+
+**Today's Progress**: Worked thru a lot of coding projects. 
+
+**Tweet**: #100DaysOfCode Day 47-52, Worked thru a lot of real projects. And, Only 4 challenges remaining to get FCC Front End Cert. 
+
+**Thoughts:**
