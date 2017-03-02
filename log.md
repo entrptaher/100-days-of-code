@@ -218,3 +218,11 @@
 **Tweet**: #100DaysOfCode Day 47-52, Worked thru a lot of real projects. And, Only 4 challenges remaining to get FCC Front End Cert. 
 
 **Thoughts:**
+
+### Day 53-60: 23/02/2017-02/03/2017
+
+**Today's Progress**: Worked thru promises and concurrency.
+
+**Tweet**: #100DaysOfCode Day 53-60, Worked thru promises and concurrency.
+
+**Thoughts:**
